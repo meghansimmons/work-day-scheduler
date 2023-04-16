@@ -6,8 +6,8 @@
   var today = dayjs().format('dddd, MMMM D');
   $("#currentDay").text(today);
   
-  // var militaryTime = dayjs().format('H');
-  var militaryTime = 11;
+  var militaryTime = dayjs().format('H');
+  // var militaryTime = 11;
   // console.log(militaryTime);
 
   var hour9 = $('#hour-9').data('hour');
