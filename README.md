@@ -2,6 +2,7 @@
 
 A Work Day Scheduler was created to provide the user with a site to save user input data (appointments) throughout a typical work day. Styling allows for easy recognition of the current time and events that occurred in the past or those still yet to come. The Work Day Scheduler was created with HTML, CSS and Javascript. 
 
+<img width="700" alt="Work-Day-Scheduler" src="https://user-images.githubusercontent.com/128755783/232633418-91edf332-8932-41e9-b1ec-7516ca0756e9.png">
 
 
 
